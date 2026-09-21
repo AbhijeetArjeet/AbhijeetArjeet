@@ -23,86 +23,57 @@
     </a>
   </p>
 
-  <!-- Oregairu Service Club Theme Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/奉仕部-Service_Club_Engineer-0F172A?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="Service Club" />
-    <img src="https://img.shields.io/badge/本物が欲しい-I_Want_Something_Genuine-1E1B4B?style=flat-square&logo=sparkles&logoColor=F472B6" alt="Genuine" />
-    <img src="https://img.shields.io/badge/Oregairu-Hachiman_x_Yukino_Mode-312E81?style=flat-square&logo=snowflake&logoColor=A5B4FC" alt="Oregairu" />
-  </p>
-
 </div>
 
 ---
 
-### ❄️ The Service Club Philosophy
+### 💡 Philosophy & Engineering Creed
 
-> *"I don't want to be understood. I want to understand. I want to know, I want to see, and I want to be certain... If you have to lie to preserve something, then it was a fake from the start. **I want something genuine.**"*  
-> — **Hikigaya Hachiman (比企谷 八幡)** & **Yukinoshita Yukino (雪ノ下 雪乃)** • *Yahari Ore no Seishun Love Come wa Machigatteiru*
+> *"I don't build software to maintain a facade or chase superficial trends. I build because I want something genuine — software engineered with zero bloat, deep hardware control, and real-world reliability."*  
+> — **Abhijeet Arjeet**
 
 ```yaml
 developer:
   name: Abhijeet Arjeet
-  creed: "奉仕部 (Service Club) — Solving real engineering bottlenecks without superficial illusions."
-  mindset: "Zero bloat, uncompromising precision, and genuine on-device performance."
-  favorite_anime: "Oregairu (My Teen Romantic Comedy SNAFU) — Hachiman & Yukino dynamic ❄️"
+  title: AI-Augmented Systems Developer & Mobile Engineer
+  mindset: "Zero bloat, maximum performance, privacy-first on-device execution."
 
 capabilities:
-  workflow: 🤖 AI-Accelerated Systems Engineering (Autonomous agents, prompt architecture, deep pair-programming)
-  core_stacks: [Android / Kotlin / Jetpack Compose, Python / PyQt6 / C++, TypeScript, Native Windows Win32 / IddCx]
+  workflow: 🤖 AI-Accelerated Engineering (Pair-programming with LLMs, autonomous agents & prompt architecture)
+  core_stacks: [Android / Kotlin / Compose, Python / PyQt6 / C++, TypeScript, Windows Win32 / IddCx]
   specialties: [Low-Latency Video Streaming, Hardware NVENC/MediaCodec, Zero-Copy D3D11, Reverse Engineering]
-  current_focus: 🚀 OpenDisplay USB & high-performance offline mobile utilities
+  current_focus: 🚀 High-performance desktop utilities, low-latency streaming & mobile media engines
 ```
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
+### 🚀 Featured Original Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhijeetArjeet&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&margin_h=10&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🌟 Crown Jewel Flagship Project
-
-<table width="100%">
+<table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <div align="center">
-        <h2>🖥️ OpenDisplay USB — Ultra-Low Latency Second Display Engine</h2>
+        <h3>🖥️ OpenDisplay USB — Low-Latency Display</h3>
         <p>
           <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB/releases">
-            <img src="https://img.shields.io/badge/Latest_Release-v0.7.0-10B981?style=for-the-badge&logo=github&logoColor=white" />
-            <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20%7C%20Android-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-            <img src="https://img.shields.io/badge/Transport-USB%20AOA%20%2B%20Wi--Fi%205-F59E0B?style=for-the-badge&logo=speedtest&logoColor=white" />
-            <img src="https://img.shields.io/badge/Stylus-240Hz%20S--Pen%20Tilt-8B5CF6?style=for-the-badge&logo=samsung&logoColor=white" />
+            <img src="https://img.shields.io/badge/Release-v0.7.0-10B981?style=flat-square&logo=github" />
+            <img src="https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white" />
+            <img src="https://img.shields.io/badge/Android-APK-3DDC84?style=flat-square&logo=android&logoColor=white" />
           </a>
         </p>
       </div>
       <p>
-        <strong>Turns any Android phone or tablet into a high-performance genuine secondary monitor for Windows PCs.</strong> 
-        Built from the ground up to challenge proprietary giants like SuperDisplay and Duet Display with 100% free, zero-telemetry open source software.
+        <strong>Turns any Android tablet or phone into a genuine secondary monitor for Windows PCs</strong> over USB or Wi-Fi 5 with zero cloud dependency.
       </p>
       <ul>
-        <li>⚡ <strong>Sub-10ms Zero-Copy Engine:</strong> Direct D3D11 / NVENC H.264 desktop capture with signed IddCx Virtual Display Driver (genuine Windows desktop extension, not simple screen mirroring).</li>
-        <li>✍️ <strong>240Hz Multitouch & S-Pen Digitizer:</strong> Sub-pixel coordinate mapping, 4096 pressure levels, tilt tracking, hover cursor, and barrel button right-click for Photoshop & Clip Studio.</li>
-        <li>📡 <strong>Dual-Mode USB + Wi-Fi 5 / Hotspot:</strong> Zero-ADB AOA 2.0 native accessory protocol + UDP multi-subnet discovery with instant USB-to-Wi-Fi auto-failover.</li>
-        <li>🎨 <strong>Obsidian Glassmorphic UI:</strong> Featuring official <em>Yui Yuigahama</em> mascot styling, live latency/FPS KPI telemetry, and in-stream floating pill toolbar.</li>
+        <li>⚡ <strong>Sub-10ms Zero-Copy Engine:</strong> Direct D3D11 / NVENC H.264 capture with signed IddCx driver</li>
+        <li>✍️ <strong>240Hz Multitouch & S-Pen:</strong> 4096 pressure levels, tilt, hover cursor, and barrel button right-click</li>
+        <li>📡 <strong>Dual-Mode Connectivity:</strong> Zero-ADB AOA 2.0 USB + Wi-Fi 5 / Hotspot auto-failover</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB"><strong>🔗 Explore OpenDisplay-USB Repository →</strong></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB/releases/tag/v0.7.0"><strong>📦 Download v0.7.0 (APK + Windows x64) →</strong></a>
+        <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Pinned & Featured Original Projects
-
-<table>
-  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎬 YPDlp — On-Device Media Suite</h3>
@@ -118,15 +89,17 @@ capabilities:
         <strong>100% On-Device YouTube Downloader & Media Suite</strong> engineered for Android and Windows Desktop with zero server reliance.
       </p>
       <ul>
-        <li>💎 <strong>Liquid Crystal Glass UI:</strong> iOS-inspired frosted glass with glow animations</li>
+        <li>💎 <strong>Liquid Crystal Glass UI:</strong> Frosted glass interface with smooth interactive animations</li>
         <li>📺 <strong>In-App Video Player:</strong> Full-screen player with timeline scrubbing & +/-10s seek</li>
         <li>⚡ <strong>Embedded Engines:</strong> Python 3.11 + QuickJS engine + bundled static FFmpeg</li>
-        <li>🎬 4K/1080p stream merging, batch playlists, and background audio service</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AbhijeetArjeet/yt_downloader"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>⚡ vayu-cpi — Performance Engine</h3>
@@ -149,9 +122,6 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/vayu-cpi"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>📶 Wi-Fi Captive Portal Tester</h3>
@@ -174,6 +144,9 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/wifi-portal-tester"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>⏰ Dual-Boot Clock Fix</h3>
@@ -196,9 +169,6 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/dualboot-clock-fix"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🏫 Smart Campus OS (SCNFMRA)</h3>
@@ -215,32 +185,10 @@ capabilities:
       <ul>
         <li>🗺️ Smart route planning and campus facility locator</li>
         <li>📊 Resource utilization metrics and occupancy data</li>
-        <li>💻 Available in full modular architecture and streamlined single-file CLI (<a href="https://github.com/AbhijeetArjeet/python-project-year1-v2">v2</a>)</li>
+        <li>💻 Available in full modular architecture and streamlined CLI</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AbhijeetArjeet/python-project-year-one"><strong>🔗 Explore Repository →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📋 Attendance Management System</h3>
-        <p>
-          <a href="https://github.com/AbhijeetArjeet/attendance-system">
-            <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/Frontend-Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          </a>
-        </p>
-      </div>
-      <p>
-        <strong>Full-Stack Attendance & Session Management Platform</strong> engineered for classroom tracking and logging.
-      </p>
-      <ul>
-        <li>📊 Live student attendance records and percentage calculation</li>
-        <li>🔐 RESTful API with structured persistence & validation</li>
-        <li>📱 Clean, lightweight user interface with quick lookups</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AbhijeetArjeet/attendance-system"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
   </tr>
@@ -248,7 +196,7 @@ capabilities:
 
 ---
 
-### 🛠️ Tech Arsenal & AI Tooling
+### 🛠️ Tech Arsenal & Systems
 
 <div align="center">
 
@@ -266,7 +214,7 @@ capabilities:
 
   <br /><br />
 
-  <p><b>AI-Augmented Tooling, Environments & Infrastructure</b></p>
+  <p><b>Developer Environments & Infrastructure</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,docker,postman,gradle" alt="Dev Tools" />
   </a>
@@ -279,49 +227,31 @@ capabilities:
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetArjeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&count_private=true" alt="GitHub Stats" height="185" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetArjeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="185" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
   <img src="https://streak-stats.demolab.com?user=AbhijeetArjeet&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakNum=38BDF8" alt="GitHub Streak Tracker" />
-
-  <br /><br />
-
-  <!-- Activity Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetArjeet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=818CF8&area=true&hide_title=true" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect & Releases
+### 🤝 Let's Connect
 
 <div align="center">
 
   <a href="https://github.com/AbhijeetArjeet">
     <img src="https://img.shields.io/badge/GitHub-AbhijeetArjeet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB/releases">
-    <img src="https://img.shields.io/badge/Flagship-OpenDisplay_USB_v0.7.0-10B981?style=for-the-badge&logo=windows&logoColor=white" alt="OpenDisplay USB Release" />
+  <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB">
+    <img src="https://img.shields.io/badge/Project-OpenDisplay_USB-10B981?style=for-the-badge&logo=windows&logoColor=white" alt="OpenDisplay USB" />
   </a>
-  <a href="https://github.com/AbhijeetArjeet/yt_downloader/releases">
-    <img src="https://img.shields.io/badge/Media_Suite-YPDlp_v1.0.13-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="YPDlp Release" />
+  <a href="https://github.com/AbhijeetArjeet/yt_downloader">
+    <img src="https://img.shields.io/badge/Project-YPDlp_Media_Suite-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="YPDlp" />
   </a>
   <a href="https://github.com/AbhijeetArjeet?tab=repositories">
-    <img src="https://img.shields.io/badge/All_Projects-View_26_Repos-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Explore" />
+    <img src="https://img.shields.io/badge/Explore-All_26_Repos-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Explore" />
   </a>
 
   <br /><br />
 
-  <sub><em>"The only thing that won't betray you is your own effort... and genuine code that runs without excuses."</em> — <b>Hachiman & Yukino • Service Club ❄️</b></sub>
+  <sub><em>"Simplicity is the prerequisite for reliability."</em> — <b>Abhijeet Arjeet</b></sub>
 
 </div>

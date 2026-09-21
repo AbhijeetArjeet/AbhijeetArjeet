@@ -159,8 +159,6 @@
     <g class="role-4">
       <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#F43F5E">🚀 Zero Bloat • On-Device Engine • Privacy-First Architecture</text>
     </g>
-    <!-- Blinking Cursor -->
-    <rect x="740" y="-18" width="10" height="22" rx="2" class="cursor" />
   </g>
 
   <!-- Subtitle Tagline -->
