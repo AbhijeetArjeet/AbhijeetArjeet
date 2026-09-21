@@ -131,7 +131,7 @@
     <circle cx="22" cy="18" r="6" fill="#FF5F56" />
     <circle cx="42" cy="18" r="6" fill="#FFBD2E" />
     <circle cx="62" cy="18" r="6" fill="#27C93F" />
-    <text x="85" y="23" font-family="'Fira Code', 'Courier New', monospace" font-size="13" font-weight="600" fill="#64748B">abhijeet@archlinux: ~ (main) ⚡ AI_COGNITION_ONLINE</text>
+    <text x="85" y="23" font-family="'Fira Code', 'Courier New', monospace" font-size="13" font-weight="600" fill="#64748B">abhijeet@cachyos: ~ (main) ⚡ AI_COGNITION_ONLINE</text>
     <g transform="translate(930, 8)">
       <rect width="130" height="20" rx="10" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="1" />
       <circle cx="12" cy="10" r="4" fill="#10B981" />
@@ -142,7 +142,6 @@
   <!-- Main Hero Title -->
   <g transform="translate(60, 150)">
     <text x="0" y="0" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="900" letter-spacing="2px" fill="url(#textGrad)" filter="url(#dropShadow)">ABHIJEET ARJEET</text>
-    <text x="500" y="-8" font-family="'Fira Code', monospace" font-size="16" font-weight="700" fill="#38BDF8">v1.0.13</text>
   </g>
 
   <!-- Dynamic Sliding Roles with Terminal Cursor -->
@@ -151,10 +150,10 @@
       <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#38BDF8">⚡ AI-Augmented Software Engineer &amp; Systems Developer</text>
     </g>
     <g class="role-2">
-      <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#A855F7">🎬 Creator of YPDlp — On-Device Mobile &amp; Desktop Media Suite</text>
+      <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#A855F7">🎬 OpenDisplay USB • YPDlp Media Suite • vayu-cpi</text>
     </g>
     <g class="role-3">
-      <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#3DDC84">📱 Android (Kotlin / NDK) • Python (PyQt6) • TypeScript • Web</text>
+      <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#3DDC84">📱 Android (Kotlin / NDK) • Python (PyQt6) • TypeScript • CachyOS</text>
     </g>
     <g class="role-4">
       <text x="0" y="0" font-family="'Fira Code', monospace" font-size="22" font-weight="600" fill="#F43F5E">🚀 Zero Bloat • On-Device Engine • Privacy-First Architecture</text>
@@ -164,41 +163,51 @@
   <!-- Subtitle Tagline -->
   <text x="60" y="238" font-family="system-ui, sans-serif" font-size="15" fill="#94A3B8">Pioneering AI pair-programming to craft lightning-fast standalone applications and developer utilities.</text>
 
-  <!-- Interactive Floating Tech Stack Badges -->
+  <!-- Interactive Floating Tech Stack Badges (Fixed Positioning with Independent Float) -->
   <g transform="translate(60, 275)">
-    <!-- Badge 1 -->
-    <g class="badge-float-1" transform="translate(0, 0)">
-      <rect width="180" height="42" rx="12" fill="#0E1726" stroke="#3DDC84" stroke-width="1.5" />
-      <circle cx="22" cy="21" r="7" fill="#3DDC84" />
-      <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Android &amp; Kotlin</text>
+    <!-- Badge 1: Android & Kotlin -->
+    <g transform="translate(0, 0)">
+      <g class="badge-float-1">
+        <rect width="180" height="42" rx="12" fill="#0E1726" stroke="#3DDC84" stroke-width="1.5" />
+        <circle cx="22" cy="21" r="7" fill="#3DDC84" />
+        <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Android &amp; Kotlin</text>
+      </g>
     </g>
 
-    <!-- Badge 2 -->
-    <g class="badge-float-2" transform="translate(195, 0)">
-      <rect width="180" height="42" rx="12" fill="#0E1726" stroke="#38BDF8" stroke-width="1.5" />
-      <circle cx="22" cy="21" r="7" fill="#38BDF8" />
-      <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Python &amp; PyQt6</text>
+    <!-- Badge 2: Python & PyQt6 -->
+    <g transform="translate(195, 0)">
+      <g class="badge-float-2">
+        <rect width="180" height="42" rx="12" fill="#0E1726" stroke="#38BDF8" stroke-width="1.5" />
+        <circle cx="22" cy="21" r="7" fill="#38BDF8" />
+        <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Python &amp; PyQt6</text>
+      </g>
     </g>
 
-    <!-- Badge 3 -->
-    <g class="badge-float-3" transform="translate(390, 0)">
-      <rect width="180" height="42" rx="12" fill="#0E1726" stroke="#818CF8" stroke-width="1.5" />
-      <circle cx="22" cy="21" r="7" fill="#818CF8" />
-      <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">TypeScript &amp; Web</text>
+    <!-- Badge 3: TypeScript & Web -->
+    <g transform="translate(390, 0)">
+      <g class="badge-float-3">
+        <rect width="180" height="42" rx="12" fill="#0E1726" stroke="#818CF8" stroke-width="1.5" />
+        <circle cx="22" cy="21" r="7" fill="#818CF8" />
+        <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">TypeScript &amp; Web</text>
+      </g>
     </g>
 
-    <!-- Badge 4 -->
-    <g class="badge-float-4" transform="translate(585, 0)">
-      <rect width="220" height="42" rx="12" fill="#0E1726" stroke="#A855F7" stroke-width="1.5" />
-      <circle cx="22" cy="21" r="7" fill="#A855F7" />
-      <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">🤖 AI-Augmented Workflow</text>
+    <!-- Badge 4: CachyOS & Systems -->
+    <g transform="translate(585, 0)">
+      <g class="badge-float-4">
+        <rect width="200" height="42" rx="12" fill="#0E1726" stroke="#00E5FF" stroke-width="1.5" />
+        <circle cx="22" cy="21" r="7" fill="#00E5FF" />
+        <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">🐧 CachyOS &amp; Systems</text>
+      </g>
     </g>
 
-    <!-- Badge 5 -->
-    <g class="badge-float-1" transform="translate(820, 0)">
-      <rect width="190" height="42" rx="12" fill="#0E1726" stroke="#FF2A55" stroke-width="1.5" />
-      <circle cx="22" cy="21" r="7" fill="#FF2A55" />
-      <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">🎬 YPDlp Media Suite</text>
+    <!-- Badge 5: Media & Streaming Engines -->
+    <g transform="translate(800, 0)">
+      <g class="badge-float-1">
+        <rect width="240" height="42" rx="12" fill="#0E1726" stroke="#FF2A55" stroke-width="1.5" />
+        <circle cx="22" cy="21" r="7" fill="#FF2A55" />
+        <text x="38" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">⚡ Streaming &amp; Media Engines</text>
+      </g>
     </g>
   </g>
 

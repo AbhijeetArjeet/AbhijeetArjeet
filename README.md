@@ -27,20 +27,22 @@
 
 ---
 
-### 💡 Philosophy & Engineering Creed
+### 💡 The Monologue & Engineering Creed
 
-> *"I don't build software to maintain a facade or chase superficial trends. I build because I want something genuine — software engineered with zero bloat, deep hardware control, and real-world reliability."*  
-> — **Abhijeet Arjeet**
+> *"Saying that you can understand each other just by talking is an illusion. Words can deceive, and compromise is often just an excuse to maintain a comfortable lie. I don't care for empty harmony or superficial peace. Even if it hurts, even if you end up having to stand alone in the cold... **I want something genuine (本物が欲しい).**"*  
+> 
+> <sub>*— H.H. (Sobu High / Chiba ☕)*</sub>
 
 ```yaml
 developer:
   name: Abhijeet Arjeet
-  title: AI-Augmented Systems Developer & Mobile Engineer
-  mindset: "Zero bloat, maximum performance, privacy-first on-device execution."
+  system: "CachyOS (x86-64-v3) & Windows 11"
+  mindset: "Zero bloat, zero illusions, and software built with uncompromising hardware control."
+  fuel: "MAX Coffee ☕"
 
 capabilities:
   workflow: 🤖 AI-Accelerated Engineering (Pair-programming with LLMs, autonomous agents & prompt architecture)
-  core_stacks: [Android / Kotlin / Compose, Python / PyQt6 / C++, TypeScript, Windows Win32 / IddCx]
+  core_stacks: [Android / Kotlin / Compose, Python / PyQt6 / C++, TypeScript, CachyOS / Linux, Windows Win32 / IddCx]
   specialties: [Low-Latency Video Streaming, Hardware NVENC/MediaCodec, Zero-Copy D3D11, Reverse Engineering]
   current_focus: 🚀 High-performance desktop utilities, low-latency streaming & mobile media engines
 ```
