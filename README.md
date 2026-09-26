@@ -55,6 +55,30 @@ capabilities:
   <tr>
     <td width="50%" valign="top">
       <div align="center">
+        <h3>🌐 Personal Portfolio & Engineering Suite</h3>
+        <p>
+          <a href="https://abhijeetarjeet.github.io/portfolio/">
+            <img src="https://img.shields.io/badge/Live-Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
+            <img src="https://img.shields.io/badge/Stack-HTML5%20%2F%20CSS%20Grid-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/Hosted-GitHub%20Pages-181717?style=flat-square&logo=githubpages&logoColor=white" />
+          </a>
+        </p>
+      </div>
+      <p>
+        <strong>Official Personal Portfolio & Systems Showcase</strong> engineered with semantic HTML5, CSS Grid Layout, Flexbox, Core JavaScript, and live GitHub REST API integration.
+      </p>
+      <ul>
+        <li>🎨 <strong>CSS Grid & Flexbox:</strong> Zero-framework, responsive web design adhering to modern standards</li>
+        <li>⚡ <strong>Dynamic GitHub Sync:</strong> Live REST API repository hydration & metrics with offline fallback</li>
+        <li>🔐 <strong>Faculty Admin Portal:</strong> Client-side authentication, peer portfolio network & contact inbox</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/AbhijeetArjeet/portfolio"><strong>🔗 Explore Repository →</strong></a> &nbsp;|&nbsp;
+        <a href="https://abhijeetarjeet.github.io/portfolio/"><strong>🌐 Visit Live Portfolio →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
         <h3>🖥️ OpenDisplay USB — Low-Latency Display</h3>
         <p>
           <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB/releases">
@@ -76,6 +100,9 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎬 YPDlp — On-Device Media Suite</h3>
@@ -99,9 +126,6 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/yt_downloader"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>⚡ vayu-cpi — Performance Engine</h3>
@@ -124,6 +148,9 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/vayu-cpi"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>📶 Wi-Fi Captive Portal Tester</h3>
@@ -146,9 +173,6 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/wifi-portal-tester"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>⏰ Dual-Boot Clock Fix</h3>
@@ -171,6 +195,9 @@ capabilities:
         <a href="https://github.com/AbhijeetArjeet/dualboot-clock-fix"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🏫 Smart Campus OS (SCNFMRA)</h3>
@@ -191,6 +218,29 @@ capabilities:
       </ul>
       <p align="center">
         <a href="https://github.com/AbhijeetArjeet/python-project-year-one"><strong>🔗 Explore Repository →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎙️ AniScribe — AI Speech Subtitle Engine</h3>
+        <p>
+          <a href="https://github.com/AbhijeetArjeet/AniScribe">
+            <img src="https://img.shields.io/badge/TypeScript-Engine-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/AI-Whisper%20INT8-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+            <img src="https://img.shields.io/badge/Audio-VLC%20Parity-FF8800?style=flat-square&logo=vlc&logoColor=white" />
+          </a>
+        </p>
+      </div>
+      <p>
+        <strong>Production-grade Offline AI Subtitle Engine & Media Player</strong> featuring multilingual speech recognition and anime manager.
+      </p>
+      <ul>
+        <li>🧠 Local INT8 quantized speech recognition running offline</li>
+        <li>🎬 High-fidelity VLC-parity playback and timeline synchronization</li>
+        <li>⚡ Zero cloud reliance for private on-device transcription</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/AbhijeetArjeet/AniScribe"><strong>🔗 Explore Repository →</strong></a>
       </p>
     </td>
   </tr>
@@ -239,8 +289,14 @@ capabilities:
 
 <div align="center">
 
+  <a href="https://abhijeetarjeet.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="https://github.com/AbhijeetArjeet">
     <img src="https://img.shields.io/badge/GitHub-AbhijeetArjeet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhijeet-arjeet-1aa62b3a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet_Arjeet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AbhijeetArjeet/OpenDisplay-USB">
     <img src="https://img.shields.io/badge/Project-OpenDisplay_USB-10B981?style=for-the-badge&logo=windows&logoColor=white" alt="OpenDisplay USB" />
@@ -249,7 +305,7 @@ capabilities:
     <img src="https://img.shields.io/badge/Project-YPDlp_Media_Suite-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="YPDlp" />
   </a>
   <a href="https://github.com/AbhijeetArjeet?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All_26_Repos-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Explore" />
+    <img src="https://img.shields.io/badge/Explore-All_Repos-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Explore" />
   </a>
 
   <br /><br />
